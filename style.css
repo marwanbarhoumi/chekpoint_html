@@ -74,3 +74,10 @@ button {
 body {
   background-color: cadetblue;
 }*/
+li {
+ 
+  display: inline;
+}
+h2 {
+  font-family: 'Roboto';font-size: 22px;
+}
